@@ -19,9 +19,9 @@ int main()
         n++;
     }
     
-	cout << setprecision(6) << fixed;
+    cout << setprecision(6) << fixed;
     cout << "EL valor de la constante pi es: " << (4 * leibniz) << endl;
-	cout << "Se realizaron " << n << " iteraciones" << endl;
+    cout << "Se realizaron " << n << " iteraciones" << endl;
 
     return 0;
 }
